@@ -1,8 +1,3 @@
-/*
- * Rockchip Upgrade Tool v2.1 - Production C++ Implementation
- * Complete Native Implementation for ARM & x86_64 Linux Workstations
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
